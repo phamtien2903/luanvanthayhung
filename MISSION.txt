@@ -1,5 +1,0 @@
-#Giờ mày sửa cái MENU , MENU t thêm tên thể loại dc r . ở phần a href m chuyển hướng sang trang web/blank.php
-top selling t dc rồi . có gì t làm thêm new product.
-còn cái login để t4 kiếm ông thầy tính tiếp.
-giờ lo đổ csdl xong trang front-end với back-end.
-còn cái lated product là các sp khác sp đang hiển thị, cái đó t đang nghiên cứu .
